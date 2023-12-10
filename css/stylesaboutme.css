@@ -125,3 +125,14 @@ img{
 .center{
     text-align: center;
 }
+.float{
+    text-align: right;
+}
+.text-primary{
+    --bs-text-opacity: 1;
+    color: #45628e !important;
+}
+.bg-primary{
+    --bs-bg-opacity: 1;
+    background-color: #45628e !important;
+}
